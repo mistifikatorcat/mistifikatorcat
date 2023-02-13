@@ -31,5 +31,5 @@ I am Junior Full-Stack developer, who's open for some new experience and who's l
 
 ## How to contact me:
 
-[My LinkedIn](linkedin.com/in/evgrafovdaniel/)
-[Write me on Telegram](https://t.me/mistycat)
+- [My LinkedIn](linkedin.com/in/evgrafovdaniel/)
+- [Write me on Telegram](https://t.me/mistycat)
