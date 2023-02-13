@@ -19,23 +19,17 @@ I am Junior Full-Stack developer, who's open for some new experience and who's l
 - MongoDB
 - Mongoose
 
-### Other:
+### Other skills:
 
-- I worked for 3 years as a QA-Engineer
-- Know Agile
-- 
+- Worked for 3 years as a QA-Engineer
+- Agile
+- Know how to use Git & npm
+- OOP
+- Basic Python
+- Can get around the Linux console
+- Know how to quit Vim :D
 
-<!--
-**mistifikatorcat/mistifikatorcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to contact me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My LinkedIn](linkedin.com/in/evgrafovdaniel/)
+[Write me on Telegram](https://t.me/mistycat)
