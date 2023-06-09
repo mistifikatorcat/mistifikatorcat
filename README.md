@@ -10,6 +10,9 @@ I am Junior Full-Stack developer, who's open for some new experience and who's l
 - CSS
 - JavaScript
 - React
+- Next.js
+- Sass
+- TypeScript
 
 
 ### Back-end:
