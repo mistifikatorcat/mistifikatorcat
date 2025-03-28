@@ -1,8 +1,25 @@
 # Hi there, my name is Daniel👋
 
-I am Junior Full-Stack developer, who's open for some new experience and who's looking for his first job as a developer.
+Full-stack developer, has mobile-development experience.
 
 ## My skills and experience:
+
+### Mobile Development:
+
+#### Android:
+
+- Kotlin
+- Jetpack Compose
+- AppCompat
+- Android Studio
+
+#### iOS:
+
+- Swift
+- SwiftUI
+- UIStoryboard
+- xCode
+- Combine
 
 ### Front-end:
 
@@ -13,10 +30,12 @@ I am Junior Full-Stack developer, who's open for some new experience and who's l
 - Next.js
 - Sass
 - TypeScript
+- Tailwind-CSS
 
 
 ### Back-end:
 
+- REST API
 - NodeJS
 - Express
 - MongoDB
@@ -26,6 +45,7 @@ I am Junior Full-Stack developer, who's open for some new experience and who's l
 
 - Worked for 3 years as a QA-Engineer
 - Agile
+- Mobile-first approach
 - Know how to use Git & npm
 - OOP
 - Basic Python
